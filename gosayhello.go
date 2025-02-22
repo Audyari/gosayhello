@@ -9,3 +9,7 @@ func SayHello(name string) {
 func SayHelloWorld() {
 	SayHello("Audyari Wiyono")
 }
+
+func PanggilLagi() {
+	SayHelloWorld()
+}
